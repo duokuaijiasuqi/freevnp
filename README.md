@@ -10,7 +10,7 @@
 
  ---
  ### 点击下载
- #### :arrow_double_down: [iOS TF版本](http://xyb.dkdk1.cc:5657/invite?code=fLjY4PS1)
+ #### :arrow_double_down: [iOS苹果客户端](http://xyb.dkdk1.cc:5657/invite?code=fLjY4PS1)
  #### :arrow_double_down: [Android 版本.APK](http://xyb.dkdk1.cc:5657/invite?code=fLjY4PS1)
  #### :arrow_double_down: [Windows 新版本.exe](http://dl.duokuai.org:8088/apps/windows/duokuai.zip?321)
   #### :arrow_double_down: [Windows 老版本.exe](http://dl.duokuai.org:8088/apps/windows/dkold.zip?4321)
@@ -20,5 +20,5 @@
  ### 免费福利
   :gift: 下载软件，免费线路长期试用
  
-  :gift: 邀请好友注册，送1个月VIP会员和奖励金
+  :gift: 邀请好友注册，送VIP会员和奖励金
 
